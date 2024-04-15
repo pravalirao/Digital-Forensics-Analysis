@@ -1,5 +1,5 @@
 # Digital-Forensics-Analysis
-INTRODUCTION
+
 The huge expansion of computer networks over the past few years, to small regional systems the
 web, has made the area of digital forensics more well known. This field includes more than just
 network forensics. It also looks into security holes in systems, breaches of privacy, and data
@@ -14,3 +14,5 @@ a lot of harm and is hard to predict. Hackers use anti-forensic means to stop in
 rid of all digital evidence. As digital forensic methods improve, correspondingly improve
 hackers&#39; strategies. 
 The goal of the research is to look at how digital forensics is changing in the field of cybersecurity, focusing on the dangers, possibilities, challenges, and new trends.
+
+
